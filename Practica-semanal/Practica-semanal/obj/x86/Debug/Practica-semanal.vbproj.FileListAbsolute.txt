@@ -1,0 +1,9 @@
+c:\users\humberto\documents\visual studio 2010\Projects\Practica-semanal\Practica-semanal\bin\Debug\Practica-semanal.exe
+c:\users\humberto\documents\visual studio 2010\Projects\Practica-semanal\Practica-semanal\bin\Debug\Practica-semanal.pdb
+c:\users\humberto\documents\visual studio 2010\Projects\Practica-semanal\Practica-semanal\bin\Debug\Practica-semanal.xml
+c:\users\humberto\documents\visual studio 2010\Projects\Practica-semanal\Practica-semanal\obj\x86\Debug\Practica_semanal.Form1.resources
+c:\users\humberto\documents\visual studio 2010\Projects\Practica-semanal\Practica-semanal\obj\x86\Debug\Practica_semanal.Resources.resources
+c:\users\humberto\documents\visual studio 2010\Projects\Practica-semanal\Practica-semanal\obj\x86\Debug\Practica-semanal.vbproj.GenerateResource.Cache
+c:\users\humberto\documents\visual studio 2010\Projects\Practica-semanal\Practica-semanal\obj\x86\Debug\Practica-semanal.exe
+c:\users\humberto\documents\visual studio 2010\Projects\Practica-semanal\Practica-semanal\obj\x86\Debug\Practica-semanal.xml
+c:\users\humberto\documents\visual studio 2010\Projects\Practica-semanal\Practica-semanal\obj\x86\Debug\Practica-semanal.pdb
